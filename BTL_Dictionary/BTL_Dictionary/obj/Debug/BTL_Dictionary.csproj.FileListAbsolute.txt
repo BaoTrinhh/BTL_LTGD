@@ -1,0 +1,12 @@
+D:\UI\BTL_Dictionary\BTL_Dictionary\bin\Debug\BTL_Dictionary.exe.config
+D:\UI\BTL_Dictionary\BTL_Dictionary\bin\Debug\BTL_Dictionary.exe
+D:\UI\BTL_Dictionary\BTL_Dictionary\bin\Debug\BTL_Dictionary.pdb
+D:\UI\BTL_Dictionary\BTL_Dictionary\obj\Debug\BTL_Dictionary.csproj.AssemblyReference.cache
+D:\UI\BTL_Dictionary\BTL_Dictionary\obj\Debug\BTL_Dictionary.csproj.SuggestedBindingRedirects.cache
+D:\UI\BTL_Dictionary\BTL_Dictionary\obj\Debug\BTL_Dictionary.Properties.Resources.resources
+D:\UI\BTL_Dictionary\BTL_Dictionary\obj\Debug\BTL_Dictionary.csproj.GenerateResource.cache
+D:\UI\BTL_Dictionary\BTL_Dictionary\obj\Debug\BTL_Dictionary.csproj.CoreCompileInputs.cache
+D:\UI\BTL_Dictionary\BTL_Dictionary\obj\Debug\BTL_Dictionary.exe
+D:\UI\BTL_Dictionary\BTL_Dictionary\obj\Debug\BTL_Dictionary.pdb
+D:\UI\BTL_Dictionary\BTL_Dictionary\obj\Debug\BTL_Dictionary.csproj.ResolveComReference.cache
+D:\UI\BTL_Dictionary\BTL_Dictionary\obj\Debug\BTL_Dictionary.frmDic.resources

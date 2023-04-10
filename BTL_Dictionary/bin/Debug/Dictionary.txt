@@ -1,0 +1,45 @@
+white:màu trắng
+màu trắng:white
+yellow:màu vàng
+màu vàng:yellow
+pink:màu hồng
+màu hồng:pink
+orange:màu da cam
+màu da cam:orange
+brown:màu nâu
+màu nâu:brown
+blue:màu xanh da trời
+màu xanh da trời:blue
+purple:màu tím
+màu tím:purple
+grey:màu xám
+màu xám:grey
+black:màu đen
+màu đen:black
+red:màu đỏ
+màu đỏ:red
+green:màu xanh lá cây
+màu xanh lá cây:green
+weather:thời tiết
+thời tiết:weather
+cloud:mây
+mây:cloud
+fog:sương mù
+sương mù:fog
+wind:gió
+gió:wind
+rain:mưa
+mưa:rain
+sunshine:ánh nắng
+ánh nắng:sunshine
+hail:mưa đá
+mưa đá:hail
+sleet:mưa tuyết
+mưa tuyết:sleet
+shower:mưa rào nhẹ
+mưa rào nhẹ:shower
+strong winds:cơn gió mạnh
+cơn gió mạnh:strong winds
+thunder:sấm
+sấm:thunder
+123:42132

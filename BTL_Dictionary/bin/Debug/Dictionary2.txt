@@ -1,0 +1,11 @@
+bacon:thịt muối
+beef:thịt bò
+chicken:thịt gà
+cooked meat:thịt chín
+duck:vịt
+sausage:xúc xích
+pork:thịt lợn
+pork pie:bánh tròn nhân thịt xay
+sausage roll:bánh mì cuộn xúc xích
+turkey:gà tây
+veal:thịt bê
