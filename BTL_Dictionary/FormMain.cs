@@ -31,6 +31,7 @@ namespace BTL_Dictionary
             {
                 if(txtSearch.Text != "")
                 {
+                    // bảo trinh vuawfw update dòng này
                     string mean = TranslationService.Translate(txtSearch.Text);
                     txtMean.Text = mean;
                     //History
